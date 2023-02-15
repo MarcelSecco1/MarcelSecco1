@@ -23,7 +23,7 @@
   <img align="center" alt="Marcel-Potsgress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
 
 
-  <img align="right" alt="Marcel-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Marcel-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/e7/c6/69/e7c669e874952811f6e2eed81fae9423.jpg?width=676&height=676">
 </div>
   
   ##
