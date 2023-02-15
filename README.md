@@ -1,3 +1,4 @@
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f5a300&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5a300&size=35&center=true&vCenter=true&width=1000&lines=Hii,+my+name+is+Marcel+Secco;I'm+16+years+old;I+from+Brazil;I+study+computer+science+at+IFSP;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -6,10 +7,11 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MarcelSecco&show_icons=true&count_private=true&hide_border=true&title_color=f5a300&icon_color=f5a300&text_color=c9d1d9&bg_color=0d1117" alt="Marcel Secco github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelSecco&layout=compact&hide_border=true&title_color=f5a300&text_color=f5a300&bg_color=0d1117" />
 </div>
-![Contribution](https://activity-graph.herokuapp.com/graph?username=MarcelSecco1&theme=gotham&hide_border=true&area=true)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
