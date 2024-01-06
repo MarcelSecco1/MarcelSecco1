@@ -31,7 +31,7 @@
   # Linguagens & Frameworks: 
    <p align="start">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=laravel,php,html,css,js,java,vue,alpinejs,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=laravel,php,html,css,bootstrap,js,java,vue,alpinejs,mysql,postgress" />
     </a>
   </p>
 
