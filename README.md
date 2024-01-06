@@ -21,15 +21,16 @@
   <img align="center" alt="Marcel-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">  
   <img align="center" alt="Marcel-Potsgress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"> -->
 
-  # Ferramentas 
+  # Ferramentas:
   <p align="start">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,bash,docker,vscode,xampp,phpstorm" />
+      <img src="https://skillicons.dev/icons?i=git,bash,docker,vscode,linux" />
     </a>
   </p>
+   # Linguagens & Frameworks: 
    <p align="start">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,bash,docker,vscode,laravel,php,vscode," />
+      <img src="https://skillicons.dev/icons?i=laravel,php,html,css" />
     </a>
   </p>
 
