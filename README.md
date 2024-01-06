@@ -24,14 +24,14 @@
   # Ferramentas:
   <p align="start">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,bash,docker,vscode,linux" />
+      <img src="https://skillicons.dev/icons?i=git,bash,docker,vscode,linux,cloudflare" />
     </a>
   </p>
   
   # Linguagens & Frameworks: 
    <p align="start">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=laravel,php,html,css,js,java,vue" />
+      <img src="https://skillicons.dev/icons?i=laravel,php,html,css,js,java,vue,alpinejs,livewire" />
     </a>
   </p>
 
