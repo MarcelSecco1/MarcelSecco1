@@ -24,6 +24,11 @@
   # Ferramentas 
   <p align="start">
     <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,bash,docker,vscode,xampp,phpstorm" />
+    </a>
+  </p>
+   <p align="start">
+    <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,bash,docker,vscode,laravel,php,vscode," />
     </a>
   </p>
