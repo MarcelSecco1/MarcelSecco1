@@ -27,10 +27,11 @@
       <img src="https://skillicons.dev/icons?i=git,bash,docker,vscode,linux" />
     </a>
   </p>
-   # Linguagens & Frameworks: 
+  
+  # Linguagens & Frameworks: 
    <p align="start">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=laravel,php,html,css" />
+      <img src="https://skillicons.dev/icons?i=laravel,php,html,css, javascript" />
     </a>
   </p>
 
