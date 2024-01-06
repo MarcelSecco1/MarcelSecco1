@@ -21,9 +21,10 @@
   <img align="center" alt="Marcel-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">  
   <img align="center" alt="Marcel-Potsgress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"> -->
 
-  <p align="center">
+  <p align="start">
+    ## Ferramentas 
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+      <img src="https://skillicons.dev/icons?i=git,bash,docker,vscode,laravel,php,vscode," />
     </a>
   </p>
 
