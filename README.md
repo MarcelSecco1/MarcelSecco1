@@ -5,7 +5,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MarcelSecco1&show_icons=true&count_private=true&hide_border=true&title_color=4242f5&icon_color=4242f5&text_color=ffff&bg_color=0d1117" alt="Marcel Secco github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelSecco1&layout=compact&hide_border=true&title_color=4242f5&text_color=ffffff&bg_color=0c0c1a" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelSecco1&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0c0c1a" />
 </div>
 
 <div style="display: inline_block"><br>
