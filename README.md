@@ -24,14 +24,15 @@
   # Ferramentas:
   <p align="start">
     <a href="">
-      <img src="https://skillicons.dev/icons?i=git,bash,docker,vscode,linux,cloudflare,redis,nginx" />
+      <img src="https://skillicons.dev/icons?i=git,bash,docker,vscode,linux,cloudflare,redis,nginx,mysql,postgres" />
     </a>
   </p>
   
   # Linguagens & Frameworks: 
    <p align="start">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=laravel,php,html,css,bootstrap,js,java,spring,ts,vue,alpinejs,jquery,mysql,postgres" />
+<!--       <img src="https://skillicons.dev/icons?i=laravel,php,html,css,bootstrap,js,java,spring,ts,vue,alpinejs,jquery,mysql,postgres" /> -->
+      <img src="https://skillicons.dev/icons?i=laravel,php,html,css,bootstrap,js,java,spring,ts,vue,alpinejs" />
     </a>
   </p>
 
