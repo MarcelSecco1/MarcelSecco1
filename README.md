@@ -25,25 +25,47 @@
   <img align="center" alt="Marcel-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">  
   <img align="center" alt="Marcel-Potsgress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"> -->
 
-  # Ferramentas:
-  <p align="start">
-    <a href="">
-      <img src="https://skillicons.dev/icons?i=git,bash,docker,vscode,linux,cloudflare,redis,nginx,mysql,postgres" />
-    </a>
-  </p>
-  
-  # Linguagens & Frameworks: 
-   <p align="start">
-    <a href="https://skillicons.dev">
+<!--       <img src="https://skillicons.dev/icons?i=git,bash,docker,vscode,linux,cloudflare,redis,nginx,mysql,postgres" /> -->
 <!--       <img src="https://skillicons.dev/icons?i=laravel,php,html,css,bootstrap,js,java,spring,ts,vue,alpinejs,jquery,mysql,postgres" /> -->
-      <img src="https://skillicons.dev/icons?i=laravel,php,html,css,bootstrap,js,java,spring,ts,vue,alpinejs" />
-    </a>
-  </p>
 
+  ## Sobre mim:
+  <div>
+   <p align="center">
+     <i>"Decisões decidem destinos"</i>
+   </p>
+   <p align="start">
+     Sou um apaixonado por código e programação, com uma sólida formação acadêmica e aprimorando cada vez mais, atualmente cursando Sistemas da Informação. Adoro desafios e estou sempre em busca de soluções criativas. Sou comprometido com a excelência e a     colaboração, e estou ansioso para fazer parte de equipes dinâmicas e contribuir para o sucesso coletivo.
+   </p>
+  </div>
+  ## Tecnologias que utilizo: 
+  <div>
+   <p align="start">
+    
+     
+   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+   ![Livewire](https://img.shields.io/badge/livewire-EE5D99.svg?style=for-the-badge&logo=livewire&logoColor=white)
+   ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+   ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+   ![Alpine.js](https://img.shields.io/badge/alpine.js-48a9c1.svg?style=for-the-badge&logo=alpinedotjs&logoColor=white)
+   ![MySQL](https://img.shields.io/badge/mysql-%230769AD.svg?style=for-the-badge&logo=mysql&logoColor=white)
+   ![Spring](https://img.shields.io/badge/spring-%2c166e.svg?style=for-the-badge&logo=spring&logoColor=white)
+   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+   ![TailwindCSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+   ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  
+   
+  </p>
+ </div>
 
 </div>
   
-  ##
+  ## Comunicação:
  
 <div> 
   
