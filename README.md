@@ -37,6 +37,7 @@
      Sou um apaixonado por código e programação, com uma sólida formação acadêmica e aprimorando cada vez mais, atualmente cursando Sistemas da Informação. Adoro desafios e estou sempre em busca de soluções criativas. Sou comprometido com a excelência e a     colaboração, e estou ansioso para fazer parte de equipes dinâmicas e contribuir para o sucesso coletivo.
    </p>
   </div>
+ 
   ## Tecnologias que utilizo: 
   <div>
    <p align="start">
