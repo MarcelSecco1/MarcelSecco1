@@ -51,6 +51,7 @@ Em 2024, aqui estou eu, aprimorando o conhecimento adquirido ao longo desde perc
    ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
    ![Livewire](https://img.shields.io/badge/livewire-EE5D99.svg?style=for-the-badge&logo=livewire&logoColor=white)
    ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+   ![Elixir](https://img.shields.io/badge/Elixir-990066?style=for-the-badge&logo=elixir&logoColor=white)
    ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
    ![Alpine.js](https://img.shields.io/badge/alpine.js-48a9c1.svg?style=for-the-badge&logo=alpinedotjs&logoColor=white)
